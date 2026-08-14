@@ -6,7 +6,8 @@
 
 A standalone utility designed to automatically update the **Lexplosion** Minecraft launcher.
 
-> ⚠️ **Disclaimer:** All code in this repository is provided strictly for educational and informational purposes. Any modifications or distribution of the source code from this repository are strictly prohibited.
+> [!IMPORTANT]  
+> All code in this repository is provided strictly for educational and informational purposes. Any modifications or distribution of the source code from this repository are strictly prohibited.
 
 [Lexplosion Repository](https://github.com/NightWorldTeam/Lexplosion)
 [Website](https://night-world.org)
@@ -15,7 +16,8 @@ A standalone utility designed to automatically update the **Lexplosion** Minecra
 
 Программа служит для автоматического обновления лаунчера **Lexplosion**.
 
-> ⚠️ **Дисклеймер:** Весь код в этом репозитории предоставлен исключительно в ознакомительных целях. Любые модификации и распространение исходного кода данного репозитория запрещены.
+> [!IMPORTANT]  
+> Весь код в этом репозитории предоставлен исключительно в ознакомительных целях. Любые модификации и распространение исходного кода данного репозитория запрещены.
 
 [Репозиторий Lexplosion](https://github.com/NightWorldTeam/Lexplosion)
 [Сайт](https://night-world.org)
